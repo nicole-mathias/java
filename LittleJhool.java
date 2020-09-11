@@ -24,6 +24,8 @@
 // SAMPLE OUTPUT 
 // Sorry, sorry!
 
+
+// trying to do little jhol
 import java.util.Scanner;
 public class LittleJhool{
     public static void main(String[] args){
