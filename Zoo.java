@@ -26,7 +26,7 @@ public class Zoo {
         int countO = 0;
 
         final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Enter input");
+        System.out.println("Enter input String");
         final String name = br.readLine();
         
         
