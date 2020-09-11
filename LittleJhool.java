@@ -25,6 +25,7 @@
 // Sorry, sorry!
 
 
+
 // trying to do little jhol
 import java.util.Scanner;
 public class LittleJhool{
