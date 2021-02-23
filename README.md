@@ -1,4 +1,4 @@
-Problems taken hackerearth
+<b>Problems taken hackerearth</b>
   <br/>
-Problem statement in present in every program
+Problem statement is present in every program.
   
